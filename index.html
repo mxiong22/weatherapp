@@ -6,11 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href=".//assets/style.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-
-
-
 
     <title>Weather App</title>
 </head>
@@ -19,13 +16,19 @@
 <body>
 
 
+    <nav class="navbar sticky-top navbar-dark bg-primary">
+        <a class="navbar-brand" href="#!">Weather Dashboard</a>
+    </nav>
+
+
+
     <div>
-        <header>Weather Dashboard</header>
+
         <h1> Search for a City:</h1>
         <form>
             <label for="cityname"> Type city here </label> <br>
             <input type="text" id="cityname" name="cityname"> <br>
-            <button type="button" class="btn btn-primary">Primary</button>
+            <button id="citybtn" type="button" class="btn btn-primary">Primary</button>
         </form>
     </div>
 
@@ -47,7 +50,7 @@
                 <br>
                 <button type="button" class="btn btn-secondary">Chicago</button>
                 <br>
-                <button type="button" class="btn btn-secondary">Austin</button>
+                <button type="button" class="btn btn-secondary">Houston</button>
             </div>
 
         </div>
@@ -66,7 +69,7 @@
     </main>
 
 
-    <script src="assets/script.js"></script>
+    <script src="./assets/script.js"></script>
 
 </body>
 

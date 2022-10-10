@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-
+  
   body {
     margin: 0;
     padding: 0;
@@ -12,17 +12,27 @@
   }
 
   main {
-    margin: 20px auto;
-    width: 94%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
 
   /* CARDS */
-  
+
   .card {
     margin: 0 0 20px 0;
     border: 3px solid var(--dark);
     border-radius: var(--border-radius);
   }
 
+  .navbar-brand {
+  color: blanchedalmond;
+  align-content: center;
+
+}
+
+
+
+    
 
 
