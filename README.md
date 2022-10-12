@@ -22,6 +22,6 @@ Website: https://mxiong22.github.io/weatherapp/
 
 
 # Credits
-Bootstrap 
-Open Weather API 
-W3 Schools 
+- Bootstrap 
+- Open Weather API 
+- W3 Schools 
