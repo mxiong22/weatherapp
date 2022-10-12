@@ -16,6 +16,7 @@ This website was created to practice the following skills:
 - Deployment to GitHub Pages
 
 Github Page: https://github.com/mxiong22/weatherapp
+Website: https://mxiong22.github.io/weatherapp/
 
 
 # Credits
