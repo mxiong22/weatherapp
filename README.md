@@ -7,4 +7,11 @@ The user will also be presented with a log of their city search history.
 N/a
 
 # Usage
+This website was created to practice the following skills:
+- HTML 
+- CSS
+- JavaScript
+- Third Party APIs
+- Server Side APIs
+- Deployment to GitHub Pages
 
