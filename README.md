@@ -18,6 +18,8 @@ This website was created to practice the following skills:
 Github Page: https://github.com/mxiong22/weatherapp
 Website: https://mxiong22.github.io/weatherapp/
 
+<img width="1928" alt="2022-10-11" src="https://user-images.githubusercontent.com/107875628/195242209-814c3816-3c72-4774-9da5-be173c9b9aa1.png">
+
 
 # Credits
 Bootstrap 
