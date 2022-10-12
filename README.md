@@ -18,3 +18,7 @@ This website was created to practice the following skills:
 Github Page: https://github.com/mxiong22/weatherapp
 
 
+# Credits
+Bootstrap 
+Open Weather API 
+W3 Schools 
